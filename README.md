@@ -1,1 +1,0 @@
-# expo-rn-test-drive
